@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1075474410709",
+    "project_id": "twilliochat-96b37",
+    "storage_bucket": "twilliochat-96b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075474410709:android:cc97cd18dcf33793ba065c",
+        "android_client_info": {
+          "package_name": "com.twilio.chat.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075474410709-976788cqtr0cangddlfaovcjdtns6ar5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twilio.chat.demo",
+            "certificate_hash": "b44c0d33c5099fa0c3ba2476a70045a4922a2f19"
+          }
+        },
+        {
+          "client_id": "1075474410709-i0th8sqioungiusbnb471spd622jiso0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFTTiJz_A2RwsMgaUceztangjZCsnLcxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075474410709-i0th8sqioungiusbnb471spd622jiso0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075474410709-gn4g6trjnreq9bnldk9q6ftcdubfvgev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twilio.rtd.conversations-app-test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075474410709:android:73b87a5bfa27ee13ba065c",
+        "android_client_info": {
+          "package_name": "com.twilio.conversations.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075474410709-cgkik7fh6ks2al34136j8l0n30qd45qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twilio.conversations.app",
+            "certificate_hash": "b44c0d33c5099fa0c3ba2476a70045a4922a2f19"
+          }
+        },
+        {
+          "client_id": "1075474410709-r883ribdifg7utns1o88q4oi299poqr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twilio.conversations.app",
+            "certificate_hash": "e96c8a41aca2edcca96f682d8c61e76b1a1b376f"
+          }
+        },
+        {
+          "client_id": "1075474410709-i0th8sqioungiusbnb471spd622jiso0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFTTiJz_A2RwsMgaUceztangjZCsnLcxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075474410709-i0th8sqioungiusbnb471spd622jiso0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075474410709-gn4g6trjnreq9bnldk9q6ftcdubfvgev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twilio.rtd.conversations-app-test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
